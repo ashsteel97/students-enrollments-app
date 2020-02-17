@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.frLoading" Type="System.String" Value="frLoading" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ProjectTK2" Type="System.String" Value="ProjectTK2" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.QRMutasiAll" Type="System.String" Value="QRMutasiAll" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.QRDataSiswa" Type="System.String" Value="QRDataSiswa" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Unit3" Type="System.String" Value="Unit3" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Unit4" Type="System.String" Value="Unit4" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Unit2" Type="System.String" Value="Unit2" Category="General" IsBrowsable="False" />
+</TgConfig>
